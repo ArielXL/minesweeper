@@ -1,0 +1,51 @@
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+c:\users\jorgito\documents\visual studio 2012\Projects\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
+F:\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+F:\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+F:\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+C:\Escuela\1ro\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+D:\Buscaminas\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe.config
+D:\Buscaminas\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.exe
+D:\Buscaminas\Buscaminas en Consola\bin\Debug\Buscaminas en Consola.pdb
+D:\Buscaminas\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.dll
+D:\Buscaminas\Buscaminas en Consola\bin\Debug\Buscaminas-Logic.pdb
+D:\Buscaminas\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.csprojResolveAssemblyReference.cache
+D:\Buscaminas\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.exe
+D:\Buscaminas\Buscaminas en Consola\obj\Debug\Buscaminas en Consola.pdb
