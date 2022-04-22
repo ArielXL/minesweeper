@@ -1,0 +1,65 @@
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe.config
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.exe
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.dll
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.pdb
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csprojResolveAssemblyReference.cache
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Board_Visual.resources
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Properties.Resources.resources
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csproj.GenerateResource.Cache
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.exe
+C:\Escuela\Buscaminas-Logic\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe.config
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.exe
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.exe
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.dll
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.pdb
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csprojResolveAssemblyReference.cache
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Board_Visual.resources
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Properties.Resources.resources
+C:\Escuela\1ro\Proyecto Programacion\Buscaminas-Project\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Board_Visual.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Properties.Resources.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Proyectos\Buscaminas Jorgito\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csproj.GenerateResource.Cache
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe.config
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.exe
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.pdb
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.pdb
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.exe
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.dll
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.pdb
+D:\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.pdb
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csprojResolveAssemblyReference.cache
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Board_Visual.resources
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Properties.Resources.resources
+D:\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csproj.GenerateResource.Cache
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe.config
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.exe
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.pdb
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.exe
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Visual.pdb
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.exe
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.dll
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas en Consola.pdb
+D:\arreglar\Buscaminas\Buscaminas-Visual\bin\Debug\Buscaminas-Logic.pdb
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csprojResolveAssemblyReference.cache
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Board_Visual.resources
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas_Visual.Properties.Resources.resources
+D:\arreglar\Buscaminas\Buscaminas-Visual\obj\Debug\Buscaminas-Visual.csproj.GenerateResource.Cache
